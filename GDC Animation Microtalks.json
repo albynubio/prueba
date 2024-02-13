@@ -1,0 +1,968 @@
+{
+  "Url": "https://www.youtube.com/watch?v=OvT0lpaQhsk&list=PL2e4mYbwSTbZC7cdsErq-eyYGJUPnFEDp&index=74",
+  "Title": "GDC Animation Microtalks",
+  "Transcript [00:00]": "0:01
+  [Music]
+  0:12
+  hello everyone and welcome to the animation micro talks we're so thrilled to have you join us here today with a quick show of fans who here has been to
+  0:18
+  a microt talk before all right all right quite a number of you that's fantastic well welcome back it's great that some
+  0:24
+  of you already know what you're in for for those of you who don't let's start off with an introduction my name is Brandon n munki I'm a senior animator on
+  0:31
+  the OverWatch team at blizzard and I've been involved in the micro talks either as a panelist or a co-host for the last four years each year we choose a theme
+  0:37
+  that guides these talks in order to make them make sure that they are cohesive in narrative and structure and yet despite
+  0:43
+  our best efforts they still tend to be pretty chaotic we've had deep dives into bat facts die tribes against crunch
+  0:49
+  culture one year we even closed out with a musical number uh but you know what that's part of their charm unlike the
+  0:54
+  other sessions you might see at the animation Summit the micr talk series isn't meant to leave you with trade or technical secrets you won't be learning
+  1:00
+  new animation layer workflows or how to untangle the noodly mess of your state Mach machines instead these talks will
+  1:05
+  focus more on the culture of animating in our field experiences observations rants wild musings our goal is to offer
+  1:11
+  insight into the aspects of the industry that aren't often discussed and do so through the individual lenses of our
+  1:16
+  panelists so what unifying theme did we choose this year well that's actually pretty tricky generally speaking we we
+  1:23
+  like to keep three things in mind when crafting them first it should be broad enough so that 10 speakers can create unique presentations that don't all
+  1:29
+  discuss the same ideas while still providing enough Focus so that they don't all talk about the same thing secondly uh the theme should be topical
+  1:36
+  enough so that it resonates with our audience so ideas like how the rumble pack changed my life are some probably a non-starter and lastly we want our
+  1:43
+  themes to be affirming inspirational even ideally we'd like each of you to leave this session absolutely stoked to engage with this community with this in
+  1:50
+  mind I turned a bit introspective in search for an answer uh what's something that provocative enough to generate
+  1:55
+  interesting ideas what shared experiences would be worth exploring and what challenges do we face at as a community and you know what one idea one
+  2:02
+  sentiment kept bubbling up to the surface and that was that this industry can be a real show sometimes which
+  2:09
+  is not the theme of this year's animation micr talks but I think it might be something that we can all relate to and have encountered at one
+  2:14
+  time or another in our careers I know that I personally experienced this and you know what it starts at the very
+  2:20
+  beginning as a student the Buri to entry into the industry felt almost insurmountable not only does it require
+  2:26
+  thousands of hours of work to learn the craft and refine our skills but it also has the added bonus sometimes costing an ungodly amount of
+  2:31
+  money as well finding that first break is so vitally important but the path to get there can be hard to navigate and
+  2:38
+  once you do get your foot in the door finding a job that values you as a person and artist can prove difficult
+  2:43
+  our passion for making video games is often used as a tool to overwork and underpay us and it's easy to become
+  2:48
+  jaded about the industry as a whole layoffs Studio closures cancel projects this field can be brutal not only that
+  2:55
+  but the job itself is hard I've never once sat at my desk at the beginning of a project and thought to myself well this is going to be a piece of cake when
+  3:01
+  people say every ship game is a miracle man are they not kidding and G as game developers every day represents a new
+  3:08
+  challenge that we have to overcome so why do we do it if it's that hard and that stressful why would we put
+  3:13
+  ourselves through it because making video games is freaking awesome and honestly I think we're an optimistic bunch I think we have to be in order to
+  3:20
+  be good at what we do in order to create something out of nothing we have to have the ability to look forward and see the potential in ourselves and what we're
+  3:26
+  creating we have to have the unshakable belief and vision that allow us to be able to walk into a conference room
+  3:31
+  stand in front of some extremely important people and say things like I think a giant sent space AE who eats
+  3:37
+  pean butter and Sho sliding should be the face of our game and then we have to defend it we are a community of problem
+  3:43
+  solvers it's what we do day in and day out challenges don't scare us they excite us there's just this this spark
+  3:49
+  of joy that happens when you uh Tinker with a problem for hours if not days and it everything eventually clicks
+  3:55
+  something ephemeral but compelling those times when you delete a single single frame and it fixes an
+  4:00
+  entire shot or when you hook up the right note in the blend tree and all of a sudden that one annoying pop disappears even when you can't solve the
+  4:07
+  problem on your own and have to turn to your colleagues R the collabora problem solving involved can still be upon as
+  4:12
+  hell and it was this Collective sense of optimism in the face of the trials and tribulations that are so deeply
+  4:17
+  ingrained in our industry that eventually inspired the theme for uh of these microt talks because of there's one thing I admire most about this
+  4:23
+  community it is the drive to make this industry better to push boundaries and test limits and to always look towards a
+  4:29
+  new horizon yep New Horizon checked all the boxes broad but directional hopeful in tone
+  4:34
+  and left plenty of room to explore topics that would resonate with all of you we've in uh re-recruited an incredibly talented paddle of speakers
+  4:40
+  view this evening they come from all across the industry and more than likely have touched at least one of or two of your favorite games and they put a ton
+  4:47
+  of work into these talks for only being about 5 minutes long the micro talks are some of the most challenging of the animation Summit largely due to the
+  4:53
+  format each Speaker gets exactly 20 slides that auto advance every 16 seconds to make their case no no more no
+  5:01
+  less timing as always is the most important thing that we do and I know they're going to knock it out of the
+  5:06
+  park I'm so excited for you folks to finally see what they've been working on so please sit back relax and enjoy the
+  5:12
+  final session of the animation Summit [Applause]
+  5:18
+  2023 once again my name is BR and N uh these are the ways to contact me if you should feel so
+  5:26
+  inclined everyone my talk is are you not entertaining how flourishes gags and Easter eggs
+  5:32
+  benefit players and devs alike I love finding Easter eggs in games I think it's because by their very nature they're like a little gift you didn't
+  5:38
+  know you were going to get but did you ever realize they can also be a gift to those that make them my name is Danish Zed I'm a principal UI visual designer
+  5:45
+  at respawn entertainment I have a pretty diverse background in degrees in computer science and animation I've worked in film TV and games and I always
+  5:52
+  love finding new ways to entertain myself which as you'll see is a pretty useful quality to have when making
+  5:57
+  games there's a great quote about development it says it's like playing chess against a formidable opponent but
+  6:02
+  where you have to commit to all your moves in advance I don't really remember who said it but it stuck with me because
+  6:07
+  it does a great job illustrating how difficult and complex it really is and how much thought and planning is
+  6:15
+  required I think most developers would agree that we have dream jobs but that doesn't mean we can't get buried under
+  6:20
+  that which we love there's always a ton of work to do and not enough time to do it in and as we all know art is never
+  6:26
+  finished only abandoned we all want to polish our work to Perfection but often have to move on
+  6:32
+  to the next task yet sometimes it's important to take a break and do something for yourself something pointless or silly something to give
+  6:37
+  yourself a creative boost to make it through production there's lots of ways you can do this I'm going to cover a few methods I've used over the years to give
+  6:44
+  myself a fun diversion and inject a little more life into the game along the way the simplest and easiest is the the
+  6:50
+  flourish take an extra bit of Polish a fun addition a small Easter egg taking your task Beyond what's necessary and
+  6:56
+  doing something that gives you a real sense of satisfaction it's the kind of thing fans won't miss when it's not there but will notice when it is for
+  7:03
+  example in Mortal Kombat 11 fighter customization was a key feature of the game in addition to full body outfits
+  7:09
+  each character could equip three pieces of gear I designed and choreographed unique animations for every gear piece for every character to not only
+  7:15
+  highlight the item but also Express their personality and move set so when it came time to do the Joker
+  7:22
+  I thought it'd be funny if we broke the fourth wall and had the camera itself be too be afraid to approach the character
+  7:27
+  The Joker then eggy want to get closer and you when it got close enough and of course laugh at you for falling for
+  7:34
+  it another example I wanted to treat uh his gear like a an infomercial where he's trying to sell you the item
+  7:40
+  complete with onscreen Graphics new and improved Joker products of course of reference to the classic
+  7:46
+  1989 Batman film in both of these examples I broke the template of what we was what we're doing with other characters and uh try to have it extra a
+  7:53
+  little extra fun another example in MKX mk11 were the friendships I designed a lot of
+  7:58
+  typography for for the game but for the friendships I want to do something a little extra and uh something as fun and lighthearted as the animations
+  8:04
+  themselves I even threw a little extra star if you get a Flawless Victory the next method is a little
+  8:11
+  bigger the side mission a task that's maybe not part of your normal responsibilities but something you really enjoy doing it could be something
+  8:17
+  you might chip away at over a longer period of time between tasks almost like a personal project it just happens to be part of the
+  8:22
+  game in my case I have a background in Motion Graphics and my previous job was designing and animating title sequences
+  8:29
+  for film and television so I never missed the chance to leverage those skills and craft some cool titles for a
+  8:35
+  game we could have easily shipped without it but for me it was really fun to do and it was uh good for the
+  8:42
+  game finally we have co-op mode recruiting collaborative to grow your gag into something a little more ambitious it's basically feature creep
+  8:48
+  so use sparingly and be mindful of others time now the iconic handshake you see here is not just a visual metaphor
+  8:54
+  for this category it's literally what we did the Predator was a guest fighter in MK X and so I worked with a handful of
+  9:01
+  other developers to put in an Easter egg that recreated the famous
+  9:06
+  handshake you son of a
+  9:12
+  [Laughter] the interesting thing about the handshake is it opened the door for our
+  9:18
+  characters to interact with each other on the select screen something we hadn't done before we built on that for Injustice 2 having the entire system
+  9:24
+  based around character interaction you can see our first prototype here something that may not have happened had we proved it out previously in
+  9:31
+  MKX and here you can see it in action one character attacks and the other responds to the Counterattack as we go into slow-mo creating a cool visual
+  9:38
+  Tableau each character has a variety of attack types to keep things varied an uppercut a side hook a chest strike and
+  9:43
+  each character would have all three animation reactions to play accordingly with this new template
+  9:49
+  firmly established we had time to uh have fun with it the flash was the perfect candidate as the slow-mo kicks
+  9:54
+  in the flash enters the speed force and we see him react to his slowed deponent a wonderful gag that has its roots all
+  10:00
+  the way back to the Predator handshake and MKX it's important to remember you don't
+  10:06
+  want to inadvertently make things harder for your fellow developers in the last example everything was planned and approved as features begin to grow you
+  10:13
+  have to be aware of Downstream effects in QA time pick your moment and keep everyone in the loop and don't creep
+  10:18
+  unless everybody's on the same page with all said and done these little gifts to yourself will make it out into
+  10:24
+  the real world and players will notice no matter how small they are even the tiniest details will spark joy in those
+  10:30
+  that see them and they want to share that Joy with others creating a game is a long road the end of which can easily
+  10:36
+  be lost Over the Horizon so we should do what we can to keep ourselves invested and engaged throughout while you make
+  10:42
+  while you work hard to make fun for others remember to make some fun for yourself
+  10:53
+  thanks hello my name is Hayden Cooper I've come from the world of view model animation
+  10:59
+  I'm here today to talk about why inspect animations are one of the coolest things in view model so tap your mags push your
+  11:06
+  for assists and strap
+  11:13
+  in what is an inspect in the inspect is a view model animation in which the
+  11:19
+  player is viewing their weapon in first person they're able to see the details and mechanics of their weapon and all of
+  11:25
+  their Glory so what is view model view model is
+  11:32
+  first person if it's hard to explaining to your friends or family what you do as an animator add on the extra layer of
+  11:39
+  saying I work with only hands and a weapon they're sure to
+  11:45
+  understand the inspect is a nice to have animation it is not a necessary sequence
+  11:51
+  in the same way that a reload a draw or a fire animation will fit into your
+  11:56
+  gameplay design it's not responding to to a specific event inspect animations are a really
+  12:03
+  cool opportunity for us view model animators to step on stage and demonstrate our knowledge and skill by
+  12:09
+  fiddling with all the bits and Bobs on these weapons and it really helps to kind of show off the assets or tie the
+  12:15
+  room together so why are inspects a thing now
+  12:21
+  I think there's situations for us to really Define and set the mood pretty
+  12:27
+  romantic in situations outside of gameplay where the player isn't just running around and shooting anything
+  12:33
+  they see moving but not all inspects are made the same there are three types of inspects
+  12:39
+  that I'm recognizing there are player initiated ones where a player presses with a hotkey and there are extended
+  12:46
+  idols and smaller moments known as fidgets a player initiated inspect this
+  12:52
+  is when the player presses a button to start the inspect and they have full agency to stop them I'll say that these
+  12:58
+  are more common nowadays and depending on how fancy you can get it can lead to some pretty cool gaming Clips as you see
+  13:03
+  here this is me by the way next are extended Idols these are
+  13:09
+  Incorporated near the end of the idol animation and these can be just as flourishy as they are seen in oh wait
+  13:18
+  and they're seen more often in older games where they didn't need a dedicated hotkey lastly are fidgets which are
+  13:25
+  smaller moments of readjusting the weapon that really show how heavy holding this weapon up can be or after
+  13:30
+  gripping it for so long how sweaty they can get so it's a little Readjustment
+  13:35
+  just a little LIF up sorry majority of the time in a
+  13:41
+  first-person shooter your attention isn't on the weapon but it's on the battlefield you're you're scanning
+  13:46
+  what's ahead of you and inspects are going to break that by bringing the peripheral into your foreground creating
+  13:52
+  opportunities for acting who is holding these objects and weapons will vary from game to game so some will be a g some
+  14:00
+  will be full of gritty milsim operators others can be roster chalk full of varied personalities with distinct
+  14:06
+  characteristics there's a lot of World building that can go into it a grounded shooter is the perfect
+  14:12
+  place to reflect shooting doctrines or training of the era such as this example the operator is pulling the slide back
+  14:18
+  doing a chamber check to ensure that this weapon is 100% loaded or
+  14:25
+  unloaded if the world you're building isn't as grounded in heavy as lead you can get away with some pretty ridiculous
+  14:31
+  stuff as seen here stuff like this shows the game will be a wild ride and full of
+  14:41
+  fun weapons and objects in your game are going to vary a pistol will feel lighter and snappy while rifles like the sniper
+  14:48
+  here are really going to feel the force that it takes to operate it also because
+  14:54
+  it's good just take another moment to see it or maybe there are bits and pieces on
+  15:00
+  a weapon that you've been looking at the entire time you've been playing as well as and so did the animator who has
+  15:07
+  worked on it for many many hours so perhaps you thought about fiddling with this little
+  15:16
+  bit those tactile experiences are really important because the worlds and levels
+  15:21
+  first person shooters are in are set up in pretty rigid ways and for many different reasons but I'll let level
+  15:27
+  designers talk about that so inspect animations really help flesh out the world that you're playing in inspects as
+  15:34
+  we know it haven't always been around they've evolved to what they are because of weapon customization extended idols
+  15:40
+  and fidgets are what have paved the way for player initiated inspects that we have
+  15:46
+  now those inspects today are a work of art it is a Showcase of a team's Talent
+  15:51
+  across disciplines it's more than animation it's modeling its audio and its visual effects all of these are on
+  15:58
+  stage performing together and going absolutely ham I'd argue that we are in a
+  16:04
+  Renaissance of view model animation that these inspects in particular are the epitome and peak of The Craft I like to
+  16:11
+  assume that we're just scratching the surface when it comes to this kind of stuff so I just want to say thank you
+  16:17
+  for letting me gush and ramble on about inspects today my name is Hayden and I hope everyone here has a fantastic rest
+  16:23
+  of their time at GDC take it easy
+  16:30
+  all right my name is John Paul ramiller I uh been in the industry for about 13 years now uh this year uh three in film
+  16:38
+  and the rest in game development um I'm an associate animation director at blizzard uh currently working on Diablo
+  16:45
+  I in cinematics it's easy for many folks who stay in this Biz a long time to get
+  16:52
+  stock in their ways and can often dig their heels in instead of letting themselves learn grow and evolve in this
+  16:57
+  everchanging industry so I found an analogy uh with how we approach eating food with my son I know makes perfect
+  17:03
+  sense right we always ask our son to try a new food once before saying no and
+  17:09
+  this has led to him enjoying foods that he never thought he would it's called his no thank you bite if he doesn't like
+  17:14
+  it after that then we don't need to push it on him and at least he tried it and now he knows whether he likes it or not
+  17:20
+  hopefully that will help him make a more informed Choice next time right seems
+  17:25
+  simple right uh so if we Asim s and artists can stay open to just trying
+  17:31
+  something new once in a while instead of digging our heels in just think about how much we can learn about ourselves
+  17:36
+  and others while pushing into New Horizons starting out in film I always considered myself a high functioning
+  17:42
+  animation machine right and um my only real goals were to continue to grow my
+  17:47
+  skill set and to take on whatever challenges were put in front of me as I transitioned the game
+  17:53
+  development after a few years that notion was challenged for the first time for the first time I had to understand
+  17:59
+  the functionality of what I was trying to create and how it fit into everybody else's idea of what works not all individuals were concerned with the
+  18:05
+  quality of my animations but more how it felt and what the player experience was
+  18:10
+  I started to question my choices my skill set my goals my I got real feedback about who I was as an
+  18:16
+  individual collaborator and not just my skill set so I questioned did I make the right choice to transition to games I
+  18:22
+  also felt inspired at the same time so what the is going on I was getting opportunity though
+  18:28
+  opportunities to take some bites out of something new that challenged this way of thinking challenges that at the same
+  18:34
+  time felt like it was taking Focus away from my goal to be this high functioning animation machine as my career went on and I
+  18:41
+  worked uh on different projects I began to take on more challenges leading wasn't something I I was initially hired
+  18:47
+  to do but it was presented as an opportunity I was scared shitless and many times I felt like I had no idea
+  18:54
+  where to begin but I tried it and even though the
+  18:59
+  experiences I have had are not always what I intended them to be I learned by just saying yes to something new from
+  19:05
+  time to time uh allowed me to become a better collaborator a better teammate and ultimately a better
+  19:11
+  developer it wasn't or isn't that what we all want an environment where we can
+  19:17
+  challenge ourselves fail a ton learn and ultimately grow doesn't this lead to
+  19:23
+  success in many areas well not always the way that you would think now some of the areas where I have
+  19:30
+  said sure I'll try that out gave me opportunities to gather New Perspectives and skills but when it was over or near
+  19:37
+  the end it also helped me find out what I was really passionate about and where I ultimately wanted my career to
+  19:43
+  go transitioning to an art lead was one of the most rewarding moves I ever made
+  19:48
+  did I see it at the time hell no I was it was nerve-wracking and I was I just took a chance I was way outside of my
+  19:55
+  norm and my comfort and I felt like I was failing all the time in the early stages but what I did realize is that
+  20:02
+  with the support of my team my leads mentors I was able to push past that on most days and I was able to hone in
+  20:09
+  where I was needed in this role rather than force myself into areas that the team didn't need me or that would have
+  20:14
+  over complicated things and at the end when asked to be an art lead again I was able to say no thank you with confidence
+  20:22
+  and continue my journey where I knew I would be happy in in animation without
+  20:27
+  those experien say I would have never had that perspective and confidence in the next Horizon as our careers move on
+  20:34
+  I have found that opportunities are there not all at once and not all the same but they're there the question is
+  20:41
+  will opportunities still be there if I don't take some of those
+  20:47
+  spites moving forward from here how do we Foster the simple concept within
+  20:53
+  ourselves so we can help our co-workers our family you all to try something new
+  20:58
+  to take that bite the perception that we can't change habits to help build opportunities can sometimes hold us back
+  21:04
+  from pushing ourselves and others I've been coming to GDC for almost seven years look at all the those faces right
+  21:11
+  um in in the audience look around you some I met way back then some I met just last night you will have shifts in your
+  21:18
+  career that you may not be able to influence company changes project shifts a pandemic if we can find those small
+  21:24
+  bites though and say yes even if it's just a few of them you may walk away with a much different experience that
+  21:30
+  you will have along the way look at my son now this is this week GDC will give
+  21:35
+  you plenty of opportunities to take a bite before saying No thank you it is in those moments that I think about the
+  21:40
+  excitement each year the passion that I see here and the challenges that everyone faces when I discover that I'm
+  21:47
+  not alone it gives me courage to go back to my studio to challenge myself and my
+  21:53
+  team to continue to push towards those New Horizons I'm John Paul Ry Miller a associate animation director at blizzard
+  21:59
+  stay engaged stay connected thanks for listening and I'll see you in
+  22:08
+  sanctuary hi my name is Yuna and I'm here to talk about existing productively and professionally on the internet so
+  22:14
+  we're going to open this one with some audience participation raise your hand if you've ever felt that horrible cringe
+  22:19
+  of seeing an old post that you made two or 10 years ago on the internet feels pretty good right so for
+  22:27
+  my first GDC my teachers told us to print physical business cards so imagine my surprise when people asked for my
+  22:32
+  Twitter handle instead and that being online seemed like a social requirement for the industry however I'll Now list
+  22:39
+  what scared me about putting myself online um I'm an introvert going on the internet means being perceived people
+  22:46
+  could be mean to me and I can have the emotional fortitude of a newborn puppy
+  22:51
+  uh people I admire and potential employers they would find me and they would judge me
+  22:58
+  um so how did I start putting myself out there well as someone looking to break into the industry in 2018 this was the
+  23:04
+  only thing I could do so to give myself the courage to start I came up with the
+  23:09
+  structure for curating a more professional online presence this was a triart I saw as a
+  23:16
+  student and my instructors told us that people like working with these people way more than those people I wanted to
+  23:23
+  Telegraph myself online to be around here with a healthy dose of kid who's got
+  23:28
+  uh lots of spunk and lots of potential um so for me that wasn't quite specific enough to get started so I made
+  23:35
+  this vend diagram to spark some positive introspection and to define the pillars of my desired online presence I decided
+  23:42
+  I wanted to present a good work ethic that I learn quickly and that I'm passionate about
+  23:47
+  animation uh and at the time my content strategy mostly hinged on the anim State Discord and on Twitter now some stuff
+  23:54
+  about Twitter has changed since the year I started using it I'm not going to talk about that stuff but uh take the Twitter
+  24:00
+  specific language I use with a grain of salt so how did I communicate my pillars on Twitter first I almost exclusively
+  24:08
+  posted work in progress threads of personal work this was super scary especially when you uh using industry
+  24:14
+  hashtags for more views but they showed the Game Dev Community my work ethic that I could learn quickly and that I
+  24:19
+  could take and Implement feedback second I kept it professional and engaged only with industry related content and third
+  24:26
+  I tried to keep my tone professional and kind being a dick on the internet gets you nowhere especially in a small
+  24:31
+  industry like ours um I also jumped into the anom state Discord at around the same time and I mostly kept my Rules of
+  24:38
+  Engagement the same the strength of anom state is and the direct accessibility to professionals and the sheer
+  24:43
+  concentration of Industry knowledge so I was mostly active in the feedback channel to practice asking for feedback
+  24:50
+  and to practice giving constructively critical and actionable feedback to
+  24:56
+  others my biggest rule was to treat everyone on the server like a teacher and potential co-worker and now an
+  25:02
+  enormous part of my early success was rooted in taking online animation courses I didn't go to art school I got
+  25:08
+  my undergrad degree in Biochemistry and I actually took the MCAT before deciding on a slightly different career path
+  25:14
+  these online courses were How I Learned animation and a lot of my social media posts were actually class assignment progressions so these classes gave me
+  25:21
+  both the structure to learn animation and content for my online job seeking presence I genuinely can't recommend
+  25:27
+  these classes enough not only were my instructors incredible teachers but being coached by industry veterans on
+  25:33
+  how to specifically better present myself was invaluable so now 5 years later I've gotten jobs I've been able to
+  25:40
+  grow my industry community so now I mostly use the internet to post pictures of my cats um so what worked for me may
+  25:48
+  not work for you and I'll leave both current job Seekers and Industry professionals with some suggestions
+  25:54
+  about connecting online um so to job Seekers do your research have someone's
+  26:01
+  details correct before you ask for their time and attention do come do make the effort to come up with specific questions and make
+  26:08
+  it easier for us to help you do be excited we all love animation and games and so we're starting from Common Ground
+  26:16
+  don't assume the worst if you don't hear back people are busy and don't be a dick
+  26:21
+  if you don't get what you want people are busy um and to the professionals out
+  26:27
+  there do take the time to respond especially if you recognize genuine effort um when I was starting out I had
+  26:35
+  absolutely no clue how to learn about the industry except for cold emailing folks and the pros who made time for me
+  26:41
+  back then were able to steer me in the correct direction and that turns out pretty well here I am um so you all know
+  26:49
+  who you are thank you so much and just also don't be a dick absolutely nothing
+  26:54
+  comes out of discouraging the future Talent of our industry and they could be your co-workers
+  26:59
+  tomorrow um so in conclusion just on the internet be thoughtful be have fun and
+  27:07
+  don't be a dick that is my
+  27:15
+  talk all right hello everyone my name is Emily katsky I am an animation lead at
+  27:21
+  Bungie and I have a confession for you all today I sit at my desk like a pretzel I
+  27:29
+  know I know it's terrible for those of you who are 30 and under you may or may
+  27:35
+  not understand the full weight of that confession but for those of you who are 30 and over I know you get how bad that
+  27:43
+  is y'all just felt a chill run down your spine okay now truthfully I have had this
+  27:51
+  problems since as long as I can remember sitting at a desk I was never taught proper desk posture and even if it was
+  27:58
+  mentioned in passing I never took it seriously uh I remember these pains starting as early as high school and
+  28:04
+  getting worse and worse as I made sitting at a desk my job now I have tried so many things to fix my posture I
+  28:11
+  have tried those elastic bands that you put your arms through and they tighten and they're supposed to get you to set up right in reality they just pinch your
+  28:19
+  armpits I have also tried that like buzzer necklace thing that you put on
+  28:25
+  your back and it's supposed to buzz to remind you to sit uppr right in reality it just makes you feel bad
+  28:30
+  every 2 minutes out of your eight hour workday every day and then finally I tried just good
+  28:39
+  oldfashioned working out your back and your core muscles to have the strength and stamina to sit
+  28:44
+  upright in reality I just had my typical desk panes with the added post-workout
+  28:50
+  soreness on top now I know I am not the only one with
+  28:56
+  this problem I have seen you shrimpies out there I have seen the
+  29:02
+  Goblins I've seen whatever this thing is my point
+  29:07
+  is I am not the only one okay now I am not here to fix our posture obviously
+  29:15
+  but what I am here to do is to tell you how I completely eradicated my desk pains and that is through stretching now
+  29:22
+  I'm going to ask for some audience participation I'm going to need all of you to stand on up put yourself down and
+  29:29
+  stand up and we're going to stretch together let's do this all right y'all
+  29:35
+  so what you're going to do is stand with your feet shoulder width apart you're going to have your back straight your
+  29:41
+  shoulders down you're going to make sure you're mindful of your neighbors I know it's packed in tight but you should be
+  29:46
+  good to go okay you're going to keep your shoulders down um and then you are going to be mindful of your own body if
+  29:52
+  you feel any pain or discomfort please stop okay be smart so so we're going to
+  29:58
+  start with good oldfashioned wrist stretches you're going to put your right arm out Palm up you're going to grab",
+  "Transcript [30:00]": "30:04
+  your fingertips and pull back down towards your arm you should feel this through your palm wrist and forearm make
+  30:11
+  it good and relax right arm out this time Palm down you're going to grab it your knuckles pull
+  30:18
+  down make it good and relax all right we're to your left arm same thing left
+  30:23
+  arm out Palm up grab your fingertips and pull back and down towards your arm arm
+  30:28
+  and relax left arm out Palm down grab it your knuckles this time and pull this is
+  30:33
+  the last Rich stretch make it good and relax Shake It Out Shake It Out okay so
+  30:39
+  next up we're going to do back stretches just a good old fashion stand up straight you're going to put your arms out in front of you grab one hand with
+  30:46
+  the other and then you're going to reach out and all the way up make it good I think about going like behind my head a
+  30:53
+  little bit put your back into it one more and relax Shake It Out Shake It Out
+  31:00
+  Shake It Out okay I'm going to talk you through this last one and then we're going to do it so just hear me out the
+  31:06
+  next thing we're going to do are neck rolls your head is a 9B bowling ball and we're going to make it do all the work
+  31:12
+  for you okay so you're going to think about sitting up straight keeping your shoulders down what we're going to do is drop our head forward roll to the right
+  31:19
+  back left forward left back right forward deep breath in and we're done
+  31:24
+  okay so let's do this stand up straight shoulders down drop your head forward
+  31:30
+  and slowly roll to the right to the back to the left and forward and back to the
+  31:38
+  left to the back to the right and forward you're going to take a deep
+  31:43
+  breath in sit up straight and exhale and we're done that was it y'all can sit
+  31:50
+  back down sit back down thank you all so much for doing that with me I was really nervous to ask for audience
+  31:55
+  participation but that was so great oh I'm so happy um so that was just a tiny
+  32:01
+  Taste of my stretches what I could fit in an auditorium with everyone cramp pack tight so um what you're going to do
+  32:07
+  is follow me on Twitter if you like this because I'm going to post so much more there because I feel so passionately
+  32:12
+  about how this changed my life okay I'm talking death stretches that you can do at work and people won't stare at you
+  32:18
+  funny I'm talking full body stretches that you can do at your home the gym anything that involves it's a little
+  32:24
+  much for work and I'm even going to do targeted stretches so if you're like I just care about my neck or my wrists or
+  32:30
+  my lower back it's all going to be there okay um so thank you all so much and
+  32:35
+  frankly I hope these stretches help you as much as they've helped
+  32:40
+  me hello my name is Josiah hallworth I've been a game developer for around eight years and I am currently a senior
+  32:47
+  animator at Riot games working on the first person shooter valerent and I have traveled all the way from Los Angeles
+  32:53
+  California for my very first GDC to tell you all that I am an
+  32:59
+  idiot don't laugh too hard uh but in all seriousness I would like to share a personal Journey that
+  33:05
+  led me to game development and hopefully help you avoid the pitfalls that I fell
+  33:11
+  into but in order to do that we're going to need to take a step back and get a
+  33:16
+  broader view of my mistakes and how I spent almost six years of my life chasing a job in film when I should have
+  33:24
+  realized where my heart truly resided in storytelling a hero's journey is
+  33:30
+  usually initiated with a call to action that forces or convinces the character
+  33:36
+  to embark on an adventure during this journey the character character conflict
+  33:42
+  often arises when a character's wants are misaligned with what they actually need to grow we see this a lot in
+  33:47
+  animated films in Kung Fu Panda Po wants to fight like one of the five Masters but what he really needs is to EMB break
+  33:53
+  his own unique fighting style in Princess and the Frog Prince wants to marry rich and live the high life but
+  33:58
+  what he really needs is to find true love and just like those characters it took me a while before I realized what I
+  34:05
+  really needed growing up I wasn't obsessed with the Godfather latest Spielberg movie I was obsessed with
+  34:10
+  trying to figure out how to catch the secret Mew in Pokemon Red and Blue or chasing down rumors on how to get the
+  34:15
+  Ocarina of uh the Triforce of power and Ocarina of Time but animation captivated me and after watching a DVD of The
+  34:21
+  Incredibles at my retail job for the 100th time I decided I wanted to animate for a living however it never dawned on
+  34:28
+  me that games needed to have animations like I said not the brightest I applied for the animation
+  34:35
+  program but was only accepting to the game art major this was my first hint however after accepting instead of
+  34:42
+  taking the hint I was actually disappointed that I and felt that I had failed for a brief moment I was actually
+  34:48
+  on the right track until a spot opened up and I switched major to animation all through college While others were using
+  34:53
+  their free time polishing up their film making skills I always spent playing Team Fortress 2 and hosting Ames of the
+  34:59
+  Dark Descent Horror Nights in my dorm I was studying film but I spent all
+  35:04
+  my free time playing video games after graduation my first job was at an AR company that wanted to make their own
+  35:10
+  games it wasn't a film but I thought I could potentially use it as a stepping sod towards future feature animation I
+  35:17
+  continued to have near misses with game development until I got a call back from Blizzard Entertainment and I cannot
+  35:22
+  stress this enough I am so foolish that even after joining blizzard my main goal was to use it as a point on my resume to
+  35:29
+  go into feature but my time there changed me surrounded by the most talented kind and
+  35:35
+  thoughtful people I had ever met in my career people that I had so much in common with I resonated with my
+  35:40
+  co-workers and now fellow devs in a way I had not experienced before we talked similarly we could have long
+  35:46
+  conversations about games we found and what we hoped to make and from this my heart began to truly open to game
+  35:52
+  development and I began to learn from World of Warcraft I learned that technical restrictions read Innovation
+  35:57
+  and critical thinking it taught me that keeping the goals and limitations of a project in mind and how to work within
+  36:03
+  them to get the best performance possible and most importantly that ideas in animation are king from OverWatch I
+  36:10
+  learned that with great power comes great responsibility in a system and game where everything is possible
+  36:15
+  keeping the game design and scope in mind was key to success it taught me restraint but also had to mesh character
+  36:22
+  fantasy with their ability design and since valer was my first
+  36:27
+  launch title I learned how gritty and organic the pre-launch period can be how
+  36:33
+  trust and empathy are vital at such a formative stage of the development cycle
+  36:39
+  and also had to take tight game design restrictions and Infuse it with character fantasy and slowly but surely
+  36:44
+  the bubble of stupidity surrounding me broke down it took almost 10 years to realize that what I really needed was to
+  36:51
+  be and was truly hungering for was to be part of making the games that I enjoyed so much
+  36:58
+  game development is a beautiful collaborative mess it is truly a job where teams are stronger together where
+  37:05
+  collaboration and mutual respect are key to success and where the goal is for every craft to plus the work that was
+  37:11
+  put before it all in service of the player nothing beats the feeling of having players notice that little extra
+  37:18
+  touch you add to the game because those are the moments that I remembered when gaming and being able to do that for
+  37:24
+  others has made me realize more and more that working in games is what I needed all along but please I'm begging you learn
+  37:32
+  from my stupidity don't dismiss an opportunity out of hand simply because it may not tick all of your boxes don't
+  37:39
+  lock yourself into working on a specific project or a specific Studio or even a specific game
+  37:45
+  type not every job can give you what you want but you can learn things that you
+  37:50
+  need from every project it's been some time since I realized that being a a game developer is what I needed
+  37:57
+  but seeing players be surprised and delighted by the work that I do only strengthens my love for
+  38:03
+  games thank you my name is Ryan Duffin I'm the
+  38:09
+  animation director at Undead labs when I was asked to sub in for another speaker I started thinking about the Zeitgeist
+  38:14
+  of 2023 two things jumped out at me Ai and feedback culture Brandon told me the
+  38:20
+  talk should be uplifting and inspiring and I was like uh yeah you got it no problem
+  38:27
+  so in flip flapping between the two in my own non-committal nature I found a Common Thread so I'm going to try and
+  38:32
+  squeeze in both uh here's the real title of my talk the first one is bait uh it's worth mentioning that I'm not an AI
+  38:39
+  expert if I say anything insightful here it's regurgitated from people who are smarter than me however the removal of
+  38:45
+  the need for human expertise is thematically appropriate when we're talking about AI because it makes no secret about that trajectory the
+  38:51
+  discourse among professionals and create professional creative seems to be either angry shouting that this shouldn't exist
+  38:57
+  or casual acceptance that it's just another tool on the inevitable March of progress whether you think it should exist or not it does and yes it's no
+  39:04
+  secret it's a tool but it Advocates its Advocates have made no secret that democratizing is a nice sounding word
+  39:10
+  for cutting out expensive experts like us 6 months ago some of these mid Journey prompts might have been paid
+  39:16
+  artist work AI Advocates freely admit that with potential comes threat but for Game Dev we also need to consider
+  39:22
+  testing so the machine doesn't fill our games with dicks and Hitler and the legality of training models is still in
+  39:27
+  question we can't ship things we can't verify the source of and AI can be KY about sources and I don't want to be the
+  39:33
+  woke police here but every human that mid Journey produces is pretty hot nobody's average nobody's ugly
+  39:38
+  unattractive means not a model apparently stock broker means bodybuilder these are two prompts I
+  39:44
+  fitted I did not specify white or male whatever your thoughts on diversity that's a blind spot to reality it's just
+  39:50
+  a tool is pacifying language you have to remember that not every tool is created with ethics or Consequences in mind some
+  39:56
+  tools tools change the course of human history some tools destroy entire Industries it is a tool and I'm not saying it's one of these only time will
+  40:03
+  tell that bait title was generated by chat GPT to anyone who buys or sells the
+  40:09
+  self-aggrandizing of some of these conference talks names this is gold and it makes me wonder is it really is is it the machines that are
+  40:15
+  impersonating us the scary thing is that AI regurgitates things that exist in novel ways and that shouldn't be scary
+  40:22
+  to a room full of creatives but it is in AAA we creators through are mergers and market research organized media into
+  40:27
+  formulas and tropes that are predictable and reproducible even if AI is just some kind of fancy autocomplete how many of
+  40:33
+  our interactions or entertainment really challenges our feelings or emotions games can be beautiful fresh and
+  40:38
+  original but a lot aren't we're up to our eyeballs and retreads and clones dosing us up with enough dopamine to not
+  40:44
+  notice of course we're at risk of being replaced we make ourselves replaceable when our entertainment is banal and
+  40:50
+  derivative AI is creating content AI created content is here and the lowest hanging fruit is
+  40:56
+  junk food are you saying pretentious artsy farts is the only way to save our industry not everything we want to
+  41:03
+  consume needs to push or provoke us that's fine tropes exist for a reason sometimes you just want a cheeseburger
+  41:08
+  and a lot of us are cheeseburger makers the robots are going to figure out cheeseburgers before they figure out duck Pate the advantage we meet Sachs
+  41:16
+  still have over the machine is we can imagine we can critique and mindfully iterate AI cannot AI can produce but it
+  41:22
+  cannot judge and it cannot feel great art can move us but we can't make things great if we can't talk about them
+  41:28
+  critically maybe you've heard the term toxic positivity but you've definitely experienced it it's a pretty simple concept the idea that a positive
+  41:35
+  attitude is everything don't point out problems if you don't have the solutions and silence all negativity and to some
+  41:40
+  people any critique sounds like negativity I was not enough time to
+  41:45
+  drink in these so uh does this make sense in a professional environment we're lucky in games that lying to
+  41:51
+  ourselves and each other when something's bad it just means delays cancellations layoff or mediocre games
+  41:57
+  would you take a cruise or a flight that's managed this way do you want a pilot that doesn't want to hear about the engine fire positive attitudes
+  42:03
+  become a sort of prayer but they don't cure cancer climb mountains put out fires or plug holes in ships and there's quite a bit of evidence that suggests
+  42:10
+  the opposite they can make us totally oblivious to our problems this lack of self-awareness isn't so different than
+  42:15
+  the AI artists and animators learn critical analysis as part of our trade but Game
+  42:21
+  Dev culture is having a harder time with this type of communication as our industry matures it's largely us the
+  42:27
+  creatives to help lead people toward a culture of constructive feedback to make things good or great we need to be
+  42:33
+  honest about the fact that they're not there yet of course open feedback is not an excuse to be aggressive mean or
+  42:38
+  disrespectful we criticize the work not the worker you've maybe heard the term radical cander usually in the context of
+  42:44
+  someone making excuses for being an but it's definitely it's defined as saying what you think well giving a
+  42:49
+  damn about the person you're saying it to a life-changing concept for me was when beray Brown explained the
+  42:55
+  difference between guilt and shame as What I've Done versus what I am every animator in this room has made a bad
+  43:00
+  animation it's fine it's how we get better we're professionals because we make more good ones despite all effort
+  43:06
+  to monetize sorry this is a last minute talk uh despite all effort to structure
+  43:11
+  produce and monetize we are still a creative industry if we're going to compete with this new technology we going we're going to need to double down
+  43:17
+  on the things that make us and our work human creativity passion self-awareness the opposite of love is not hate it's
+  43:24
+  apathy people who speak honestly about problems still care they're invested in making things better now more than ever
+  43:31
+  we need to embrace the tools we humans have that these new technologies do not computers don't know what is good what
+  43:37
+  is great what is appealing moving or meaningful that's what we're for to do that we have to push ourselves harder to
+  43:43
+  be better and we have to be honest with ourselves and each other when we're not if this talk didn't suck it's because I
+  43:48
+  have good friends who gave me good feedback thank
+  43:55
+  you
+  44:02
+  so unfortunately we had two speakers that had a bow out last uh last week last minute Silver Lining of that though
+  44:08
+  is that we get to close out with another musical
+  44:15
+  [Applause] number uh yeah so okay so the the talk
+  44:22
+  uh I I was a substitute JP was as well and he was uh dignified enough to not complain about it like me
+  44:30
+  um so yeah it was I think February and and so and I was really busy and even
+  44:36
+  like a week afterwards I was like do you really need me to do this cuz I'm I'd rather work in my car uh and and I was
+  44:43
+  told yes and so uh I went for it but then as I was stressed out and finishing
+  44:48
+  the talk and all that I thought it'd be funny because we did a song the last time we was here I was like I'll have
+  44:54
+  chat GPT write a song and it was okay like it was an okay song
+  45:00
+  and and I'll try to keep the the story the short version and if you're the bar later I'll tell you the long version but
+  45:06
+  uh here here's what I have in my notes to describe this so uh after after GDC 2018 Mike wherever you are I don't I
+  45:14
+  don't know where you are oh he might anyway uh Mike Jung
+  45:21
+  Bluth said you should do a musical micro talk and I said okay but only FL does it too we wrote a song called one key frame
+  45:26
+  at a time we played it at GDC 2019 as a surprise uh I don't think we're going to top that but I've been thinking about
+  45:33
+  doing another one since uh so I had chat GPT WR one about how it's going to steal
+  45:38
+  our jobs and it did and it was okay but I thought maybe I could do better first I was trying to edit it into something
+  45:44
+  and then I just W up canning the whole thing writing something different uh that was on
+  45:49
+  Wednesday and I finished it on Friday uh I think on on Thursday night uh I I
+  45:55
+  messaged Brandon and I said about 70% chance of this happening and then uh it happened so um the the video you're
+  46:02
+  going to see here was done by on Saturday lunch uh Simon anger's supposed to be here unfortunately he couldn't be
+  46:08
+  but he was going to be second guitar can we get it a little louder
+  46:14
+  than or a lot louder
+  46:21
+  [Music] sorry
+  46:28
+  [Music]
+  46:34
+  but now better pictures me
+  46:41
+  the to see dedication what a will be i' be a
+  46:48
+  [Music] guy want about the downfall of man if
+  46:58
+  you think you're C above and get your hat out of the sand I don't want to be
+  47:05
+  doom and Blom but things are changing fast coming for the whole
+  47:13
+  Crea it get feel like an artist look it'll fake an actor's voice it'll write
+  47:20
+  an author's book and give none of us a choice they say they
+  47:26
+  democratize what they want her demonetize and as we starve the tech
+  47:32
+  Bros Will Rejoice I'm not a machine and i' got an
+  47:39
+  open mind there's lots of ways that he I could save me work and time they say
+  47:47
+  that it's just a tool we
+  47:53
+  shouldn't at my head maybe some Mach make a bright future for
+  48:01
+  us all r upia or capitalism
+  48:07
+  downfall all they really trying to make the world a better place turn up off
+  48:14
+  with the legion da place it can take a famous face and put
+  48:21
+  it somewhere compromised it'll take a poli and fill their mouths with
+  48:27
+  different lies our the to Hell also we'll have more junk to sell then it
+  48:35
+  hides behind imaginations guys now it's soul and heart can a
+  48:42
+  machine really make or how we set the bars alow we
+  48:47
+  can't tell the two apart do we provoke thought and Elation or make mindless
+  48:54
+  stimulation let's step it up we got machines to our
+  49:00
+  smart we are not computers we are just human beings some complicated Nu on
+  49:09
+  nonsensical kind of things I want to believe we're not
+  49:14
+  staring down the abys is something that we
+  49:22
+  miss I'm not a machine I'm a complic
+  49:27
+  man I'm sure someday they'll mind my brain for dat when they can I guess they
+  49:34
+  stuck with me till something better comes along by next year R I will write
+  49:41
+  this [Music] song thank
+  49:47
+  you sorry for the technical
+  49:54
+  difficulties
+  49:59
+  [Music]"
+}
